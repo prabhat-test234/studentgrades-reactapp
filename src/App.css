@@ -1,0 +1,17 @@
+.App {
+  margin: 20px;
+}
+
+.App-header {
+  text-align: center;
+  font-size: large;
+  margin-bottom: 20px;
+}
+
+table {
+  min-width: 650
+}
+
+.table_header {
+  background-color: lightgray;
+}

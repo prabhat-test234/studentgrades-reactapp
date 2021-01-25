@@ -1,0 +1,1 @@
+{  "exec": "node ./server/server.js",  "watch": ["./server/server.js"],  "ext": "js"}
